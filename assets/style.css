@@ -1,4 +1,5 @@
 @import url(//db.onlinewebfonts.com/c/736cf5b08b01082a3645e14038868e20?family=Krungthep);
+@font-face {font-family: "Krungthep"; src: url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.eot"); src: url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.woff") format("woff"), url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.svg#Krungthep") format("svg"); } 
 body {
   background-color: #80202B;
   color: #4a4a4a;
@@ -8,7 +9,7 @@ h1 {
   display: inline-flexbox;
   background-color: #80202B;
     color: #E6e27b;
-    font-family: 'Krungthep', sans-serif;
+    font-family: "Krungthep", sans-serif;
     font-size: 7rem;
     margin: 3rem;
     display: flex;
@@ -30,7 +31,7 @@ h1 {
 }
 
 #showCurrentDay {
-  font-family: 'Krungthep', sans-serif;
+  font-family: "Krungthep", sans-serif;
   font-size: 1.5rem;
   margin: 3rem;
 }
@@ -40,7 +41,7 @@ form {
   padding: .75rem;
   background-color: #80202B;
   color: #E6e27b;
-  font-family: 'Krungthep', sans-serif;
+  font-family: "Krungthep", sans-serif;
   justify-items: center;
   box-shadow: 0 5px 10px black;
 }
@@ -55,7 +56,7 @@ select {
   -webkit-appearance: menulist-button;
   appearance: menulist-button;
   display: inline-block;
-  font-family: 'Krungthep', sans-serif;
+  font-family: "Krungthep", sans-serif;
   color: #80202B;
   background: #E6e27b;
   border-radius: .25rem;
@@ -109,7 +110,7 @@ footer {
   color: #80202B;
   background-color: #E6e27b;
   padding: 1rem;
-  font-family: 'Krungthep', sans-serif;
+  font-family: "Krungthep", sans-serif;
   font-size: 2rem;
 }
 
@@ -137,7 +138,7 @@ footer {
 #issMapControl {
   margin-top: 2rem;
   border: #E6e27b solid .5rem;
-  font-family: 'Krungthep', sans-serif;
+  font-family: "Krungthep", sans-serif;
   background-color: #E6e27b;
   box-shadow: 0 5px 10px black;
   color: #80202B;
